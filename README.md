@@ -7,3 +7,6 @@ This Project here deals with a fictional real estate company called "Dragon Real
 
 ### Understanding the requirement -
 As Machine learning engineers our first job is to understand the requirements properly. Exploring the business objectives . Getting an idea of what resources available and sharing what additional resources might be required for the project. These meeting are to be conducted along with stakeholders of the company. We also need to understand that what kind of solution is currently being implemented to address this issue.
+
+### Understanding the Dataset -
+The Dataset shared with us need to be analysed in-depth to provide an acurate model.
