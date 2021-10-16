@@ -54,4 +54,10 @@ The Dataset shared with us need to be analysed in-depth to provide an acurate mo
     14. MEDV     Median value of owner-occupied homes in $1000's
 
 ### Model Selection -
-After understanding the dataset completely , we need to select a few models that we want to use to train our data on.In here our target variable is ' MEDV '  which is the house prices and it's a continious variable. So initially we'll use Linear Regression for training and later on , to improve accuracy we'll check if decision tree or random forest works better with our data.
+After understanding the dataset completely , we need to select a few models that we want to use to train our data on.
+
+In here our target variable is ' MEDV '  which is the house prices and it's a continious variable. So initially we'll use Linear Regression for training and later on , to improve accuracy we'll check if decision tree or random forest works better with our data.
+
+This model will be a supervised learning as we have labels of the data with us.
+
+As in this dataset we have data that is already present with us and no live streaming data
