@@ -11,9 +11,9 @@ As Machine learning engineers our first job is to understand the requirements pr
 ### Understanding the Dataset -
 The Dataset shared with us need to be analysed in-depth to provide an acurate model. currently the data set we have consist of the following details -
 
-1. Title: Boston Housing Data
+#### 1. Title: Boston Housing Data
 
-2. Sources:
+#### 2. Sources:
    (a) Origin:  This dataset was taken from the StatLib library which is
                 maintained at Carnegie Mellon University.
    (b) Creator:  Harrison, D. and Rubinfeld, D.L. 'Hedonic prices and the 
@@ -21,7 +21,7 @@ The Dataset shared with us need to be analysed in-depth to provide an acurate mo
                  vol.5, 81-102, 1978.
    (c) Date: July 7, 1993
 
-3. Past Usage:
+#### 3. Past Usage:
    -   Used in Belsley, Kuh & Welsch, 'Regression diagnostics ...', Wiley, 
        1980 N.B. Various transformations are used in the table on
        pages 244-261.
@@ -30,10 +30,10 @@ The Dataset shared with us need to be analysed in-depth to provide an acurate mo
        Learning, 236-243, University of Massachusetts, Amherst. Morgan
        Kaufmann.
 
-4. Relevant Information: Concerns housing values in suburbs of Boston.
-5. Number of Instances: 506
-6. Number of Attributes: 13 continuous attributes (including "class" attribute "MEDV"), 1 binary-valued attribute.
-7. Attribute Information:
+#### 4. Relevant Information: Concerns housing values in suburbs of Boston.
+#### 5. Number of Instances: 506
+#### 6. Number of Attributes: 13 continuous attributes (including "class" attribute "MEDV"), 1 binary-valued attribute.
+#### 7. Attribute Information:
 
     1. CRIM      per capita crime rate by town
     2. ZN        proportion of residential land zoned for lots over 
