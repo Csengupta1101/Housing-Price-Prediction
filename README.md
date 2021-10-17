@@ -69,6 +69,13 @@ As the problem we are working with is a regression problem hence we will use RMS
 
 * We will use Jupyter Notebook for analysis.
 * We will use visual studio Code for deployment.
+* Libraries used -
+       > Jupyter notebook.
+       > Pandas.
+       > Numpy.
+       > ScikitLearn.
+       > Joblib.
+       > Pickle.
 
 1. Data Analysis -
        * Understanding the features available.
@@ -77,7 +84,8 @@ As the problem we are working with is a regression problem hence we will use RMS
 3. Visualization on training data.
 4. Models Selection.
 5. Best model choosing.
-6. 
+6. Checking the score with test data.
+7. Dumping the model.
 
 
 
