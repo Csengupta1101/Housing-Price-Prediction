@@ -88,6 +88,10 @@ As the problem we are working with is a regression problem hence we will use RMS
 7. Dumping the model.
 
 
+### Model Deployment -
+We will deploy the model in a webpage using flask framework in Heroku. Aws or any other server can be used as well.
+
+
 
 
 
