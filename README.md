@@ -61,3 +61,8 @@ In here our target variable is ' MEDV '  which is the house prices and it's a co
 This model will be a supervised learning as we have labels of the data with us.
 
 As in this dataset we have data that is already present with us and no live streaming data so we will go for batch learning instead of online learning.
+
+### Selection Of Performence Measure -
+As the problem we are working with is a regression problem hence we will use RMSE(root mean squared error). This will reduce the error margin. As we get both positive and negative error in out dataset where the data points are on both side of the best fit line , the squared value makes it a positive one.
+
+
