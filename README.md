@@ -65,4 +65,22 @@ As in this dataset we have data that is already present with us and no live stre
 ### Selection Of Performence Measure -
 As the problem we are working with is a regression problem hence we will use RMSE(root mean squared error). This will reduce the error margin. As we get both positive and negative error in out dataset where the data points are on both side of the best fit line , the squared value makes it a positive one.
 
+## Workflow -
+
+* We will use Jupyter Notebook for analysis.
+* We will use visual studio Code for deployment.
+
+1. Data Analysis -
+       * Understanding the features available.
+       * Missing Value handling.
+2. Train test Split.
+3. Visualization on training data.
+4. Models Selection.
+5. Best model choosing.
+6. 
+
+
+
+
+
 
