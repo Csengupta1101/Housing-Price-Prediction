@@ -60,4 +60,4 @@ In here our target variable is ' MEDV '  which is the house prices and it's a co
 
 This model will be a supervised learning as we have labels of the data with us.
 
-As in this dataset we have data that is already present with us and no live streaming data
+As in this dataset we have data that is already present with us and no live streaming data so we will go for batch learning instead of online learning.
